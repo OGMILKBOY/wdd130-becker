@@ -1,4 +1,2 @@
 # wdd-becker
-Client website project for Jaxon Becker
-
-This will be the site I develop for Jaxon
+This website project is for Jaxon Becker: https://ogmilkboy.github.io/wdd130-becker/
